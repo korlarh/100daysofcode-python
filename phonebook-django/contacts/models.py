@@ -18,5 +18,8 @@ class Contact(models.Model):
     address = models.TextField()
     relationship = models.CharField(max_length=255)
     web_address = models.CharField(max_length=255)
+    profile_pic = models.ImageField(upload_to='images/')
+
+
 
 
