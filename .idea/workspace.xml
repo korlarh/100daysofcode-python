@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff39db63-c1dc-4c15-8f86-a2add45132ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/korlarh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/korlarh.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phonebook-django/contacts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook-django/contacts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phonebook-django/contacts/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook-django/contacts/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phonebook-django/phonebook/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook-django/phonebook/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonebook-django/phonebook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook-django/phonebook/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonebook-django/phonebook/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook-django/phonebook/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonebook-django/phonebook/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="114" column="13" lean-forward="true" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
+            <state relative-caret-position="-699">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding>
                 <element signature="e#310#319#0" expanded="true" />
               </folding>
@@ -28,19 +26,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/phonebook-django/accounts/admin.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/apps.py">
+        <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -59,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonebook-django/phonebook/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="408">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
               </folding>
@@ -92,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="357">
+              <caret line="69" column="10" lean-forward="true" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
               <folding>
                 <element signature="e#85#91#1" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
@@ -107,6 +101,20 @@
                 <element signature="n#div#0;n#div#2;n#div#1;n#!!top" />
                 <element signature="e#2617#2623#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonebook-django/accounts/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonebook-django/accounts/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -129,11 +137,12 @@
         <option value="$PROJECT_DIR$/phonebook-django/contacts/views.py" />
         <option value="$PROJECT_DIR$/phonebook-django/contacts/urls.py" />
         <option value="$PROJECT_DIR$/phonebook-django/templates/base.html" />
-        <option value="$PROJECT_DIR$/phonebook-django/phonebook/urls.py" />
-        <option value="$PROJECT_DIR$/phonebook-django/phonebook/settings.py" />
         <option value="$PROJECT_DIR$/phonebook-django/contacts/models.py" />
         <option value="$PROJECT_DIR$/phonebook-django/phonebook/templates/base.html" />
         <option value="$PROJECT_DIR$/phonebook-django/contacts/templates/index.html" />
+        <option value="$PROJECT_DIR$/phonebook-django/accounts/urls.py" />
+        <option value="$PROJECT_DIR$/phonebook-django/phonebook/settings.py" />
+        <option value="$PROJECT_DIR$/phonebook-django/phonebook/urls.py" />
       </list>
     </option>
   </component>
@@ -168,6 +177,12 @@
               <item name="100daysofcode-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode-python" type="462c0819:PsiDirectoryNode" />
               <item name="phonebook-django" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode-python" type="462c0819:PsiDirectoryNode" />
+              <item name="phonebook-django" type="462c0819:PsiDirectoryNode" />
               <item name="contacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -189,14 +204,6 @@
               <item name="phonebook-django" type="462c0819:PsiDirectoryNode" />
               <item name="phonebook" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode-python" type="462c0819:PsiDirectoryNode" />
-              <item name="phonebook-django" type="462c0819:PsiDirectoryNode" />
-              <item name="phonebook" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode-python" type="b2602c69:ProjectViewProjectNode" />
@@ -257,7 +264,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
@@ -279,16 +286,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook-django/phonebook/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#633#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -306,20 +303,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonebook-django/phonebook/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="114" column="13" lean-forward="true" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
-          <folding>
-            <element signature="e#310#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -337,8 +324,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phonebook-django/contacts/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="357">
+          <caret line="69" column="10" lean-forward="true" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
           <folding>
             <element signature="e#85#91#1" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
@@ -348,6 +335,39 @@
             <element signature="n#div#0;n#div#1;n#div#1;n#!!top" />
             <element signature="n#div#0;n#div#2;n#div#1;n#!!top" />
             <element signature="e#2617#2623#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook-django/accounts/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook-django/phonebook/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook-django/accounts/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook-django/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonebook-django/phonebook/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
